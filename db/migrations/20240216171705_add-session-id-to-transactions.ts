@@ -1,4 +1,3 @@
-import { table } from "console";
 import type { Knex } from "knex";
 
 
